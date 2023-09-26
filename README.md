@@ -1,1 +1,1 @@
-# studyCase-ShoppingSurvey
+# StudyCase-ShoppingSurvey
